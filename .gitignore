@@ -1,0 +1,29 @@
+# Environment variables (your secrets)
+habit-tracker.env
+.env
+*.env
+
+# Database files
+*.db
+habit_tracker.db
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
